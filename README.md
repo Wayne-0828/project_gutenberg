@@ -9,7 +9,7 @@
 ![爬取結果](./images/image001.png)
 ![內文展示](./images/image002.png)
 
-![古騰堡計劃-爬蟲練習作業](https://www.youtube.com/watch?v=7V6MTdDjtPY)
+[古騰堡計劃-爬蟲練習作業](https://www.youtube.com/watch?v=7V6MTdDjtPY)
 
 
 ## 其它詳細說明
